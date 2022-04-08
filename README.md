@@ -2,7 +2,7 @@
 - 👀 I’m interested in Powershell! Going to use it to automate everything! 
 - 🌱 I’m currently learning Powershell and more powershell!
 - 💞️ I’m looking to collaborate on any tips, tricks and scripts to help me learn and simplify powershell!
-- 📫 How to reach me ummm colloboration or DM's!!
+- 📫 How to reach me ummm collaboration or DM's!!
 
 <!---
 DeathN0te/Powershell Projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
