@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark, currently going to use this github for my journey into powershell. Let's learn together!
 - 👀 I’m interested in Powershell! Going to use it to automate everything! 
-- 🌱 I’m currently learning Powershell!
+- 🌱 I’m currently learning Powershell and reading the PowerShell Cookbook!
 - 💞️ I’m looking to collaborate on any tips, tricks and scripts to help me learn and simplify powershell!
 - 📫 You can reach me on here!
 
